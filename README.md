@@ -13,10 +13,25 @@ Frontend:  React.js | Tailwind CSS
 Backend:   Node.js | Express.js | FastAPI | JWT
 Database:  MongoDB | MySQL   
 
-## 📊 GitHub Stats 
+<a href="https://github.com/Aditi-Bari14/Customer_Churn_Project.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Prajakta-humbe&repo=InstaVista&theme=tokyonight" />
+</a>
 
-![Prajakta's GitHub stats](https://github-readme-stats.vercel.app/api?username=prajakta-humbe&show_icons=true&theme=gruvbox&hide_border=true)
+<a href="https://github.com/prajakta-humbe/RBAC.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Prajakta-humbe&repo=InstaVista&theme=tokyonight" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prajakta-humbe&layout=compact&theme=gruvbox)
+<a href="https://github.com/sash-84/payroll-management.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Prajakta-humbe&repo=InstaVista&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/prajakta-humbe/PBL2024.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Prajakta-humbe&repo=InstaVista&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/prajakta-humbe/prajHumbe.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Prajakta-humbe&repo=InstaVista&theme=tokyonight" />
+</a>
+
 
 
